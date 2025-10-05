@@ -14,6 +14,7 @@ This page contains my solutions of UVA problems. They are in C++ language.
 | 4 | 10696 | f91 | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10696%20-%20f91)
 | 5 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
 | 6 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
+| 7 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
 
 
 
