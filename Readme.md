@@ -12,9 +12,10 @@ This page contains my solutions of UVA problems. They are in C++ language.
 | 2 | 543 | Goldbach's Conjecture | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/543%20-%20Goldbach's%20Conjecture)
 | 3 | 929 | Number Maze | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/929%20-%20Number%20Maze)
 | 4 | 10696 | f91 | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10696%20-%20f91)
-| 5 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
-| 6 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
-| 7 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
+| 5 | 11539 | Another Word Game | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11539%20-%20Another%20Word%20Game)
+| 6 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
+| 7 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
+| 8 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
 
 
 
