@@ -12,12 +12,15 @@ This page contains my solutions of UVA problems. They are in C++ language.
 | 2 | 543 | Goldbach's Conjecture | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/543%20-%20Goldbach's%20Conjecture)
 | 3 | 884 | Factorial Factors | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/884%20-%20Factorial%20Factors)
 | 4 | 929 | Number Maze | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/929%20-%20Number%20Maze)
-| 5 | 10696 | f91 | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10696%20-%20f91)
-| 6 | 10892 | LCM Cardinality | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10892%20-%20LCM%20Cardinality)
-| 7 | 11539 | Another Word Game | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11539%20-%20Another%20Word%20Game)
-| 8 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
-| 9 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
-| 10 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
+| 5 | 10041 | Vito's Family | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10041%20-%20Vito's%20Family)
+| 6 | 10048 | Audiophobia | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10048%20-%20Audiophobia)
+| 7 | 10696 | f91 | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10696%20-%20f91)
+| 8 | 10892 | LCM Cardinality | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10892%20-%20LCM%20Cardinality)
+| 9 | 11539 | Another Word Game | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11539%20-%20Another%20Word%20Game)
+| 10 | 11624 | Fire! | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11624%20-%20Fire!)
+| 11 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
+| 12 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
+| 13 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
 
 
 
