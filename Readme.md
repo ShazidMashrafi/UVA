@@ -16,11 +16,12 @@ This page contains my solutions of UVA problems. They are in C++ language.
 | 6 | 10048 | Audiophobia | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10048%20-%20Audiophobia)
 | 7 | 10696 | f91 | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10696%20-%20f91)
 | 8 | 10892 | LCM Cardinality | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/10892%20-%20LCM%20Cardinality)
-| 9 | 11539 | Another Word Game | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11539%20-%20Another%20Word%20Game)
-| 10 | 11624 | Fire! | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11624%20-%20Fire!)
-| 11 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
-| 12 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
-| 13 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
+| 9 | 11223 | O: dah dah dah! | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11223%20-%20O:%20dah%20dah%20dah!)
+| 10 | 11539 | Another Word Game | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11539%20-%20Another%20Word%20Game)
+| 11 | 11624 | Fire! | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11624%20-%20Fire!)
+| 12 | 11723 | Numbering Roads | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/11723%20-%20Numbering%20Roads)
+| 13 | 12455 | Bars | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12455%20-%20Bars)
+| 14 | 12506 | Shortest Names | [Solution](https://github.com/ShazidMashrafi/UVA/tree/main/Codes/12506%20-%20Shortest%20Names)
 
 
 
